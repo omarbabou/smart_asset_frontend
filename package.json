@@ -1,0 +1,11 @@
+{
+  "name": "smart_asset_frontend",
+  "version": "1.0.0",
+  "description": "Smart Assets Management System for Academic Examinations is a digital platform designed to streamline and enhance the management of resources and processes involved in conducting academic exams.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
